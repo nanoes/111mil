@@ -20,23 +20,23 @@ public class Cuadrado {
 #### Ejemplo:
 
 ```
-> Ingrese alto: 0
-> Ingrese ancho: 5
+> Ingrese ancho: 0
+> Ingrese alto: 5
 
 Alto invalido
 
-> Ingrese alto: 0
-> Ingrese ancho: cincuenta
+> Ingrese ancho: 0
+> Ingrese alto: cincuenta
 
 Ancho invalido
 
-> Ingrese alto: 1
 > Ingrese ancho: 1
+> Ingrese alto: 1
 
 #
 
-> Ingrese alto: 8
-> Ingrese ancho: 5
+> Ingrese ancho: 8
+> Ingrese alto: 5
 
 #######
 #######
